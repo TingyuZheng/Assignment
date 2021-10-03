@@ -1,0 +1,63 @@
+Assignment 3 from Tingyu ZHENG
+Problem introduction:
+Murder mystery game has become an important way for young people to socialize and have fun these days. In my free time, I also like to ask my friends to play murder mystery games, but I encounter some difficulties when I try to find proper scripts and venues. There is no platform that gathers all relative information. People need to look for information, generally incomplete and inconsistent, on different platforms, combine and compare it manually, which is a waste of time. At the same time, it is difficult for individuals to communicate with other players or to see posts of genuine experience other than advertisements.
+Therefore, I want to build a website that can integrate information about venues and scripts to meet the needs of murder mystery games players in different scenarios. They can find important details such as venue location, time availability and information of scripts on one website, so that they can quickly browse for scripts and time options of a proper venue as well as find out a venue that can provide the service of a specific script that interests them. Meanwhile, I want to build an online community for individual enthusiasts to communicate with each other, share experience, and meet with strangers. 
+Interviews:
+Interview Questions:
+Interview Videos & responses:
+See the attached files.
+
+Persona Types:
+  
+
+ 
+Persona Type Picked: Ordinary players who want to have fun with friends.
+I chose this persona type because ordinary players occupy the majority of murder mystery game players. People use this game as a social event and use it to gather friends or make new friends. It is an important way of entertainment for ordinary people outside of work or study life and because of its long duration and medium-high cost, people usually don’t play it too often. Penny is one of the ordinary players who fulfil economic conditions to do it in her spare time, have some experiences related to murder mystery game, interested in it, have tendency to organize and play it again but won't play it too often like fans. She is like any one of us.
+ 
+Customer Journey Map
+
+Story Map
+
+
+Functional 	Overall Venue Information	Detailed Venue Information	Script Information	Planification and Confirmation	Comments
+Content 	Location:
+1.Is it within the area required?
+2.Is it easy for everyone to go? How far is the distance?
+	Location:
+1.Detailed location
+2.Possible ways of getting there	Attributes:
+1.Scripts type
+2.Number of players required
+3.Scripts introduction
+4.Duration of time	Economics:
+1.Cost
+2.Payment methods	1.Which platform to put on comments
+2.Is it safe to write bad comments?
+
+	Service:
+1.Does it have lots of scripts?
+2. Does it provide many time options?	Service:
+1.Details of scripts provided
+2.Details of time availability
+	References:
+1.Players' comments on the scripts
+2.Does it up-to-date or popular?	Others:
+1.Availability
+2.Contact with the venue	
+	Others：
+1.Is the environment good for the gathering?
+2.Is it popular on social media?	Others:
+1.Comments about the chosen venue
+2. Professionality of dm to lead the game
+			
+Problem Statement
+How might we make a full-time worker who wants to plan a murder mystery game with friends on weekend (who) address the problem of collecting information, generally considered as incomplete and ingenuine, on different platforms (what) so that she/he can save time and have a better murder mystery game experience (why)?
+Card sorting
+Participants' Test:
+ 
+Organized result:
+ 
+
+Positioning Map
+ 
+
